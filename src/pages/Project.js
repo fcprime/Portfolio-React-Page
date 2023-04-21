@@ -1,5 +1,6 @@
 import { useParams } from 'react-router-dom';
 import BtnGitHub from '../components/btnGitHub/BtnGitHub';
+import BtnProject from '../components/btnProject/BtnProject';
 import { projects } from './../helpers/projectsList';
 
 const Project = () => {
@@ -12,7 +13,11 @@ const Project = () => {
         <div className="project-details">
           <h1 className="title-1">{project.title}</h1>
 
-          <img src={project.imgBig} alt={project.title} className="project-details__cover" />
+          <img
+            src={project.imgBig}
+            alt={project.title}
+            className="project-details__cover"
+          />
 
           <div className="project-details__desc">
             <p>
@@ -20,7 +25,7 @@ const Project = () => {
             </p>
             <p>{project.text}</p>
           </div>
-
+          <BtnProject link={project.linkProject} />
           <BtnGitHub link={project.gitHubLink} />
         </div>
       </div>

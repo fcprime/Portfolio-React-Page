@@ -12,11 +12,20 @@ const Header = () => {
         </h1>
         <div className="header__text">
           <p className="header__text-desc">
-            Thanks to the creation of this site. <br /> I began to use React technology
-            professionally, gained a lot of experience, figured out many bugs
+            My goal is to bring user interfaces to life. I have a passion for creating appealing and
+            user-friendly websites that deliver an exceptional user experience. My skillset includes
+            a understanding of HTML, CSS, and JavaScript, as well as experience with a framework
+            such as React. <br />
+            In my portfolio, you'll find examples of projects that showcase my abilities to develop
+            responsive websites. In addition to my technical skills, I am also a strong communicator
+            and collaborator. <br /> My portfolio demonstrates my ability to work on projects
+            ranging from simple landing pages to complex web applications. I am constantly learning
+            and staying up-to-date with the latest technologies and trends in front-end development.
           </p>
         </div>
-        <a href="https://github.com/fcprime?tab=repositories" className="btn">
+        <a
+          href="https://github.com/fcprime?tab=repositories"
+          className="btn">
           Link to my GitHub
         </a>
 

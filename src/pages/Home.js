@@ -8,10 +8,10 @@ const Home = () => {
         <div className="container">
           <ul className="content-list">
             <li className="content-list__item">
-              <h2 className="title-2">Front-End Developer</h2>
+              <h2 className="title-2">Skills</h2>
               <p>
-                HTML5, CSS3 & SCSS, JavaScript, ReactJS, PHP-basic, GiT & GiTHuB, NPM, BEM, Figma &
-                Photoshop
+                HTML5, CSS3 & SCSS, Styled-component, React, JavaScript, PHP-basic, NPM, BEM, Figma
+                & Photoshop
               </p>
             </li>
           </ul>

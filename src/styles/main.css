@@ -171,11 +171,20 @@ body {
 
 .btn-outline:hover {
   opacity: 0.8;
+  color: blue;
 }
 
 .btn-outline:active {
   position: relative;
   top: 1px;
+}
+
+.btn-link {
+  margin-bottom: 15px;
+}
+
+.btn-link:hover {
+  color: blue;
 }
 
 /* Projects  */
