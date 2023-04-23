@@ -28,7 +28,7 @@ import project09Big from './../img/projects/09-big.jpeg';
 const projects = [
   {
     title: 'Agon E-commerce',
-    skills: 'ReactJS, redux-toolkit, SCSS, HTMl',
+    skills: 'ReactJS, redux-toolkit, SCSS, HTML',
     img: project08,
     imgBig: project08Big,
     gitHubLink: 'https://github.com/fcprime/E-commerce-Agon',
@@ -38,7 +38,7 @@ const projects = [
 
   {
     title: 'Pizza',
-    skills: 'ReactJS, redux-toolkit, SCSS, HTMl',
+    skills: 'ReactJS, redux-toolkit, SCSS, HTML',
     img: project09,
     imgBig: project09Big,
     gitHubLink: 'https://github.com/fcprime/Pizza-React',
@@ -55,7 +55,7 @@ const projects = [
     text: 'About app: we can choose a room and change the settings in each of them, the functionality has been made',
   },
   {
-    title: 'Residential Apartments',
+    title: 'Apartments',
     skills: 'HTML, CSS, JavaScript',
     img: project01,
     imgBig: project01Big,
