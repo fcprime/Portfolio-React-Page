@@ -28,12 +28,12 @@ import project09Big from './../img/projects/09-big.jpeg';
 const projects = [
   {
     title: 'Agon E-commerce',
-    skills: 'ReactJS, redux-toolkit, SCSS, HTML',
+    skills: 'ReactJS, redux-toolkit, SCSS, HTML, Firebase',
     img: project08,
     imgBig: project08Big,
     gitHubLink: 'https://github.com/fcprime/E-commerce-Agon',
     linkProject: 'https://norlandia-agon.netlify.app',
-    text: 'The project is written in the react framework, using redux, a service with a mockapi database, added user registration and authorization, adding goods to the cart, calculating the cost and quantity, deleting goods, adding to favorites',
+    text: 'The project is written in the react framework, using redux, a service with a mockapi database, added user registration with the service Firebase and authorization, adding goods to the cart, calculating the cost and quantity, deleting goods, adding to favorites',
   },
 
   {
