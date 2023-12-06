@@ -10,7 +10,7 @@ const Home = () => {
             <li className="content-list__item">
               <h2 className="title-2">Skills</h2>
               <p>
-                ReactJ, Typescript, JavaScript, HTML5, CSS3 & SCSS, Styled-component, BEM, Figma,
+                ReactJS, TypeScript, JavaScript, HTML5, CSS3 & SCSS, Styled-component, BEM, Figma,
                 Photoshop
               </p>
             </li>
