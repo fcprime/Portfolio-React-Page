@@ -25,7 +25,7 @@ const Header = () => {
         </a>
 
         <a
-          href="https://drive.google.com/file/d/10hYzWN55MGq8k0sJQ4mIE_sYzOyOiChV/view?usp=sharing"
+          href="https://drive.google.com/file/d/1mMsWvL2Jx7zaXaBGesuFj30oCvn0WV5G/view?usp=sharing"
           className="btn btn-cv">
           Download my CV
         </a>
