@@ -20,10 +20,10 @@ const Project = () => {
           />
 
           <div className="project-details__desc">
-            <p>
+            <p className="project-details__text">
               In this project i used: <br /> {project.skills}
             </p>
-            <p>{project.text}</p>
+            <p className="project-details__subtitle">{project.text}</p>
           </div>
           <BtnProject link={project.linkProject} />
           <BtnGitHub link={project.gitHubLink} />

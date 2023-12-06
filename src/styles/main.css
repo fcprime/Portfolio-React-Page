@@ -167,6 +167,7 @@ body {
   color: #000;
 
   transition: opacity 0.2s ease-in;
+  cursor: pointer;
 }
 
 .btn-outline:hover {
@@ -228,7 +229,7 @@ body {
 
 .project-details__desc p {
   margin-bottom: 15px;
-  font-size: 27px;
+  font-size: 24px;
 }
 
 /* Content list */

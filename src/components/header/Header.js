@@ -12,15 +12,10 @@ const Header = () => {
         </h1>
         <div className="header__text">
           <p className="header__text-desc">
-            My goal is to bring user interfaces to life. I have a passion for creating appealing and
-            user-friendly websites that deliver an exceptional user experience. My skillset includes
-            a understanding of HTML, CSS, and JavaScript, as well as experience with a framework
-            such as React. <br />
-            In my portfolio, you'll find examples of projects that showcase my abilities to develop
-            responsive websites. In addition to my technical skills, I am also a strong communicator
-            and collaborator. <br /> My portfolio demonstrates my ability to work on projects
-            ranging from simple landing pages to complex web applications. I am constantly learning
-            and staying up-to-date with the latest technologies and trends in front-end development.
+            I'm a Junior Front-End developer specializing in ReactJS, TypeScript, JavaScript, HTML5,
+            CSS3, Styled-components, with a metallurgical engineering degree who successfully
+            transitioned from a leadership role in a production facility to software development. My
+            main passion is to create and improve products making people's lives better.
           </p>
         </div>
         <a
@@ -30,7 +25,7 @@ const Header = () => {
         </a>
 
         <a
-          href="https://drive.google.com/file/d/1lX6j2hctBhlL42r0QlPiPhL2LHWdXS8T/view?usp=share_link"
+          href="https://drive.google.com/file/d/10hYzWN55MGq8k0sJQ4mIE_sYzOyOiChV/view?usp=sharing"
           className="btn btn-cv">
           Download my CV
         </a>
